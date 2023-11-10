@@ -1,0 +1,61 @@
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\bin\Debug\Mdi.exe.config
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\bin\Debug\Mdi.exe
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\bin\Debug\Mdi.pdb
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.csprojResolveAssemblyReference.cache
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.Form1.resources
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.Properties.Resources.resources
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.csproj.GenerateResource.Cache
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.exe
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.pdb
+C:\Users\URIELLE\Desktop\app de gestion d'une imprimeri C sharp\Mdi\Mdi\obj\Debug\Mdi.Form2.resources
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe.config
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.exe
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.pdb
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.pdb
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csprojResolveAssemblyReference.cache
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form1.resources
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form2.resources
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Properties.Resources.resources
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csproj.GenerateResource.Cache
+C:\Users\ornella\Desktop\app de gestion d'une imprimeri C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Contact.resources
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe.config
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.exe
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.pdb
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.pdb
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\mscorlib.dll
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\fr\mscorlib.resources.dll
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\normidna.nlp
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\normnfc.nlp
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\normnfd.nlp
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\normnfkc.nlp
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\normnfkd.nlp
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csprojResolveAssemblyReference.cache
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Contact.resources
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form1.resources
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form2.resources
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Properties.Resources.resources
+I:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csproj.GenerateResource.Cache
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe.config
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.exe
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.pdb
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.pdb
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csprojResolveAssemblyReference.cache
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Contact.resources
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form1.resources
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form2.resources
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Properties.Resources.resources
+H:\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csproj.GenerateResource.Cache
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe.config
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.exe
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.pdb
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.exe
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\bin\Debug\Mdi.pdb
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csprojResolveAssemblyReference.cache
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Contact.resources
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form1.resources
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Form2.resources
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.Properties.Resources.resources
+D:\Csharp avance\Multicouche TI-PAM2\app de gestion d'une imprimeri original C sharp - Copie\Mdi\Mdi\obj\Debug\Mdi.csproj.GenerateResource.Cache
